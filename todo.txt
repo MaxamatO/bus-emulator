@@ -1,0 +1,4 @@
+RS232 -> 
+Master, Slave : Device
+Bus
+RS232 : Frame 
